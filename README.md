@@ -1,1 +1,1 @@
-# CHTR-LLM
+# TextHumorRecognition-LLM
