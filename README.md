@@ -1,4 +1,4 @@
-# 论文介绍
+# 论文信息
 ## 标题
 **中文文本的幽默识别：基于大语言模型的少样本提示与监督微调**
 ## 摘要
@@ -14,7 +14,7 @@ ChatGPT3.5-turbo（0.31）。基于少样本提示与监督微调框架的 Qwen1
 适应中文文本的幽默识别任务，而且能够在本地个人电脑上实现简单部署，具有广泛的应用前
 景。项目代码公布于：[https://github.com/Therebe123/TextHumorRecognition-LLM](https://github.com/Therebe123/TextHumorRecognition-LLM)。
 
-# Python环境介绍
+# Python环境
 ## Python 版本
 **3.10.8**
 ## Cuda版本
